@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ElectronicsApp</string>
+    <string name="product_cost">$%1$.2f</string>
+</resources>
